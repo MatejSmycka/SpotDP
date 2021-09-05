@@ -1,7 +1,7 @@
 # SpotDP 
 
 
-##### - Simple SPOTify Downloader of Playlists as mp3 files.
+##### - Simple SPOTify Downloader of Playlists.
 &nbsp;
 
 ----
