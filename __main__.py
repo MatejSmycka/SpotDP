@@ -25,7 +25,7 @@ def main(argv):
             print (new_string)
             YTDownload(new_string)
     else:
-        print('playlist wasnt found')
+        print("Playlist wasn't found")
 
 
 if __name__ == '__main__':
